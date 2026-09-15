@@ -1,0 +1,12 @@
+node_modules/
+*/node_modules/
+.env
+*.env
+backend/.env
+backend/sauvegardes/
+*.sql
+*.log
+frontend/build/
+.vscode/
+.idea/
+backend/uploads/
